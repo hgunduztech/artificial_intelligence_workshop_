@@ -2,6 +2,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=▶▶+Hello!+👋+I'm+Hamza+Gündüz◀&center=true&size=25">
   </a>
+</h1>
+
+<!-- Add the image before the welcome section -->
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*eZ_r9RLJ1MMYq4HlW6A-Nw.jpeg" alt="Welcome Image" width="100%" />
+</p>
+
 <h2 align="center">Welcome to the Breadcrumbs Artificial Intelligence Workshop</h2>
 
 <p align="center"> 
